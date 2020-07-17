@@ -30,7 +30,7 @@ public class No4_NoPriority {
 	
 	@Test
 	public void Test1() {
-		
+	
 		Assert.assertEquals("TestNG 1", "TestNG 1");
 		System.out.println("TestCase 1");
 	

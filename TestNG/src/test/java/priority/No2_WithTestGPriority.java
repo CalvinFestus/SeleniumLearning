@@ -20,7 +20,7 @@ public class No2_WithTestGPriority {
 		
 		Assert.assertEquals("TestNG 2", "TestNG 2");
 		System.out.println("TestCase 2");
-
+		
 	}
 	
 	@Test(priority = 0)
